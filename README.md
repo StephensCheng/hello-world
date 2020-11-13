@@ -1,2 +1,2 @@
-# hello-world
-just a new respository
+# cuda  julia-c
+It is cuda homework
